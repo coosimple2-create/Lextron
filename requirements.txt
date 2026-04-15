@@ -1,0 +1,7 @@
+Ollama
+Flask
+requests
+opencv-python
+pyttsx3
+speech_recognition
+kali-tools-integration
